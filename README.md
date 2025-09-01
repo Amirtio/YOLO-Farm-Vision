@@ -112,6 +112,7 @@ You can customize the following parameters at the top of each detection script:
 This project was proudly developed by:
 
 - **zahra seraji** - *Initial Concept, Model Training & Core Logic* - [@zahraseraji2o](https://github.com/zahraseraji2o)
+- **Amirreza Navali** - *Initial Concept, Model Training & Core Logic* - [@amirtio](https://github.com/amirtio)
 
 We collaborated on all aspects of the project, from brainstorming to final implementation.
 
