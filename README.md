@@ -107,6 +107,16 @@ You can customize the following parameters at the top of each detection script:
 -   `line_x` / `line_top_y` / `line_bottom_y`: Coordinates for detection lines/zones.
 -   `pixels_per_cm`: A calibration factor to estimate real-world distance. This needs to be adjusted based on camera perspective and distance.
 
+## 👥 Team & Contributors
+
+This project was proudly developed by:
+
+- **zahra seraji** - *Initial Concept, Model Training & Core Logic* - [@zahraseraji2o](https://github.com/zahraseraji2o)
+
+We collaborated on all aspects of the project, from brainstorming to final implementation.
+
+---
+
 ---
 
 This project is for demonstration purposes and can be extended for various real-world applications in livestock monitoring and management.
