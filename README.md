@@ -109,8 +109,6 @@ You can customize the following parameters at the top of each detection script:
 
 ## 👥 Team & Contributors
 
-This project was proudly developed by:
-
 - **zahra seraji** - *Initial Concept, Model Training & Core Logic* - [@zahraseraji2o](https://github.com/zahraseraji2o)
 
 We collaborated on all aspects of the project, from brainstorming to final implementation.
